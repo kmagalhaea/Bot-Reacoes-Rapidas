@@ -21,7 +21,7 @@ Loop 30
 
    Send, {Ctrl Down}w{Ctrl Up}
    Sleep, 120000
-   Run, Chrome.exe //*link do storys*//
+   https://instagram.com/leyla_arrais?igshid=MzRlODBiNWFlZA==
    Sleep, 8000
    Send, {Tab Down} {Tab Up}
    Sleep, 500
